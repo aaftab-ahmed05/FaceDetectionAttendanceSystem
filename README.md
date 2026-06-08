@@ -129,7 +129,7 @@ Register:
 
 Facial data:
 
-<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/a431598f-5b2b-4da8-9103-34c55cd89639" />
+<img width="1874" height="839" alt="image" src="https://github.com/user-attachments/assets/27f27985-c946-4245-9828-d2e28b9190f7" />
 
 
 ---
